@@ -95,20 +95,20 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="✰ᴄʟɪᴄᴋ ᴛᴏ ᴍᴀᴋᴇ ᴍᴇ ɢғ✰",
+            text="✘ᴄʟɪᴄᴋ ᴛᴏ ᴍᴀᴋᴇ ᴍᴇ ɢғ✘",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="✰ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs✰", callback_data="help_back"),
+        InlineKeyboardButton(text="✘ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs✘", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="✰ᴀʙᴏᴜᴛ ᴍᴇ✰", callback_data="fallen_"),
-        InlineKeyboardButton(text="✰ᴍᴀᴋᴇ ᴍᴇ ʏᴏᴜʀ ᴏᴡɴ✰", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="✘ᴀʙᴏᴜᴛ ᴍᴇ✘", callback_data="fallen_"),
+        InlineKeyboardButton(text="✘ᴍᴀᴋᴇ ᴍᴇ ʏᴏᴜʀ ᴏᴡɴ✘", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="✰ᴍʏ ᴏᴡɴᴇʀ✰", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="✰ɢᴜɪᴅᴇ ғᴏʀ ᴍᴜsɪᴄ✰", url=f"https://t.me/noobxcreator/9"),
+        InlineKeyboardButton(text="✘ᴍʏ ᴏᴡɴᴇʀ✘", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="✘ɢᴜɪᴅᴇ ғᴏʀ ᴍᴜsɪᴄ✘", url=f"https://t.me/noobxcreator/9"),
     ],
 ]
 
